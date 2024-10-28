@@ -50,7 +50,7 @@ This project aims to design and implement advanced data architectures for analyz
 - Mapping document
 - SQL scripts
 - Validation scripts
-- Visualization dashboards in Tableau : https://public.tableau.com/app/profile/yuga.santosh.kanse/viz/MotorVehicleCollisionAnalysis_17152030344110/Dashboard-Q104 and Power BI
+- Visualization dashboards in Tableau and Power BI
 - Submission in a zip file
 
 **Project Notes:**
